@@ -2,7 +2,7 @@
 
 ## About
 
-![The trainer in action](https://github.com/danjaaron/Frostpunk-Hack/blob/main/frostpunk-trainer.PNG)
+![The trainer in action](https://github.com/danjaaron/FTL-Hacks/blob/master/ftl-scrap-trainer.PNG)
 
 This repository contains the source code for an Infinite Scrap cheat for Faster-Than-Light (FTL).
 
